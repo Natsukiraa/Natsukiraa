@@ -1,4 +1,4 @@
-#Hi :wave:
+# Hi :wave:
 
 I'm Natsukiraa an it student loving software developpment and doing a bit of web dev
 
